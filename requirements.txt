@@ -2,3 +2,4 @@ langchain==0.0.277
 streamlit==1.27.0
 protobuf==3.20
 qdrant-client==1.5.4
+dotenv
